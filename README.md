@@ -1,6 +1,6 @@
 # _YourFavoriteThings website_
 
-##### _Goal: to create a page using jQuery that allows the user to list thier favorite things.  See [assignment](https://www.learnhowtoprogram.com/lessons/jquery-code-review). for more details._
+##### _Goal: to create a page using jQuery that allows the user to list thier favorite things.  See [assignment](https://www.learnhowtoprogram.com/lessons/jquery-code-review) for more details._
 
 #### By _**Garrett Carver**_
 
