@@ -1,16 +1,22 @@
-label {
-  font-size: 16px;
-  font-weight: bold;
-  padding-right: 5px;
-}
-
-#submit-button {
-   color: #2B3E50;
-   font-weight: bold;
+ul {
+  display: none;
+  list-style: none;
 }
 
 #input-field {
-   color: #2B3E50;
-   font-weight: bold;
-   height: 39px;
+  max-width: 500px;
+}
+
+label {
+  font-size: 20px;
+  display: inline;
+  float: left;
+}
+
+#submit-button {
+  margin-left: 68px;
+}
+
+.list {
+  padding-top: 100px;
 }

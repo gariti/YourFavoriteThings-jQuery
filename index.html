@@ -9,17 +9,24 @@
   <title>Your Favorite Things</title>
 </head>
 <body>
-  <h1>What are your favorite things?</h1>
+  <div>
+    <h1>What are your favorite things?</h1>
+  </div>
 
-  <form>
-    <label>I like</label>
-    <input id="input-field" type="text" placeholder="cats..." value="">
-    <button id="submit-button" type="submit" class="btn">Add</button>
-  </form>
+  <div class="form-group">
+    <form>
+      <label class="col-md-4 control-label">I like</label>
+      <input id="input-field" type="text" placeholder="cats..." class="form-control" value="">
+      <button id="submit-button" type="submit" class="btn btn-default">Add</button>
+    </form>
+  </div>
 
-  <ul>
-    
-  </ul>
-
+  <div class="list">
+    <button id="show-hide" type="button" class="btn btn-default">show list</button>
+  
+    <ul>
+      
+    </ul>
+  </div>
 </body>
 </html>
